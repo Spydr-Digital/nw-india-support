@@ -1,9 +1,5 @@
 {
   "index": "Home",
   "sharesave": "Sharesave",
-  "baye": "BAYE",
-  "about": {
-    "title": "About",
-    "type": "page"
-  }
+  "baye": "BAYE"
 }
