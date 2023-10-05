@@ -45,7 +45,7 @@ const config: DocsThemeConfig = {
     key: '2.0-release',
     text: (
       <a href="https://natwestshareplans.com" target="_blank">
-        🎉 Spydr's New Project is out now! Read more →
+        🎉 NatWest ShareSave 2023 is Live →
       </a>
     )
   },
