@@ -50,7 +50,7 @@ const config: DocsThemeConfig = {
     )
   },
   search: {
-    placeholder: 'Search docs',
+    placeholder: 'Ask a question',
   },
   
   navbar: {
