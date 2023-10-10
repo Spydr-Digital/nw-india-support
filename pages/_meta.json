@@ -1,9 +1,7 @@
 {
   "index": "Home",
-  "sharesave": "ShareSave",
-  "baye": "BAYE",
   "link": {
     "title": "NatWest Share Plans Hub",
-    "type": "page"
+    "href": "https://natwestshareplans.com"
   }
 }
