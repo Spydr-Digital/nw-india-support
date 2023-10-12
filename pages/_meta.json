@@ -6,5 +6,15 @@
     "title": "NatWest Share Plans Hub",
     "href": "https://natwestshareplans.com",
     "newWindow": true
+  },
+  "overview": {
+    "title": "Overview",
+    "type": "page",
+    "href": "https://www.natwestshareplans.com/"
+  },
+  "knowledge": {
+    "title": "Knowledge centre",
+    "type": "page",
+    "href": "https://www.natwestshareplans.com/news-and-education"
   }
 }
