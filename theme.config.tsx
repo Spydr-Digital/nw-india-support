@@ -40,14 +40,6 @@ const config: DocsThemeConfig = {
   editLink: {
     component: null,
   },
-  banner: {
-    key: '2.0-release',
-    text: (
-      <a href="https://natwestshareplans.com" target="_blank">
-        🎉 NatWest ShareSave 2023 is Live →
-      </a>
-    )
-  },
   search: {
     placeholder: 'Ask a question',
   },
